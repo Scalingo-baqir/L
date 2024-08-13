@@ -3,7 +3,7 @@
     "description": "• تنصيب سـورس ريبـــثون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "logo": "https://graph.org/file/5d3e657e910057f03a8aa.jpg",
     "addons": ["scalingo-postgresql"],
-    "repository": "https://github.com/Scalingo-baqir/L",
+    "repository": "https://github.com/Scalingo/sample-python-flask",
     "website": "https://baqir-flask.scalingo.io",
     "stack": "container",
     "env": {
